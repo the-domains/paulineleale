@@ -1,8 +1,19 @@
-layout_spectrum: 0.4961634
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.7938232
-  lightness: 0.5663083
+  saturation: 0.9426523
   brandStrength: 0.9860964
+  lightness: 0.5663083
   brandColors:
     - '#503E88'
     - '#000000'
@@ -11,4 +22,5 @@ color:
     - '#41336E'
   rhythmicContrast: 0.8530466
 typography_spectrum: 0.59319
+layout_spectrum: 0.3709677
 name: Paulineleale
