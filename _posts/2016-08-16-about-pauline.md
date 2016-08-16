@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T15:53:38.947Z'
+datePublished: '2016-08-16T15:57:36.315Z'
 sourcePath: _posts/2016-08-16-about-pauline.md
 hasPage: true
 author: []
@@ -12,7 +12,7 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-16T15:53:38.388Z'
+dateModified: '2016-08-16T15:57:35.682Z'
 title: About Pauline
 id: 70d9fc05-8578-471a-99e7-f522ed99a4f0
 publisher: {}
