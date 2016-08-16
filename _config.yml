@@ -1,3 +1,17 @@
+typography_spectrum: 0.59319
+color:
+  saturation: 0.9426523
+  brandStrength: 0.9860964
+  lightness: 0.5663083
+  brandColors:
+    - '#503E88'
+    - '#000000'
+    - '#322755'
+    - '#141022'
+    - '#41336E'
+  rhythmicContrast: 0.8530466
+layout_spectrum: 0.3709677
+name: Pauline Leale
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9426523
-  brandStrength: 0.9860964
-  lightness: 0.5663083
-  brandColors:
-    - '#503E88'
-    - '#000000'
-    - '#322755'
-    - '#141022'
-    - '#41336E'
-  rhythmicContrast: 0.8530466
-typography_spectrum: 0.59319
-layout_spectrum: 0.3709677
-name: Paulineleale
+title: International Property
