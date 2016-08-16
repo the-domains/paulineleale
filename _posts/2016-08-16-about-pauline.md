@@ -8,9 +8,9 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-16T15:49:01.753Z'
+dateModified: '2016-08-16T15:50:26.587Z'
 title: About Pauline
-datePublished: '2016-08-16T15:49:36.038Z'
+datePublished: '2016-08-16T15:50:27.197Z'
 author: []
 description: >-
   Pauline has a long history in providing the highest levels of service for the
@@ -20,12 +20,11 @@ description: >-
   understand their varied needs and providing highly bespoke solutions.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-16-about-pauline.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: about-pauline/index.html
+_type: Blurb
 
 ---
 # About Pauline
